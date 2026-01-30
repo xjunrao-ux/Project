@@ -1,0 +1,16 @@
+Season,Week,Contestant,Judge_Score,Judge_Rank,Est_Fan_Vote_Share,Uncertainty_Std,Fan_Rank_Est,Total_Rank_Sim,Actual_Status,Prediction_Match
+1,2,John O'Hurley,26.0,1,0.1755,0.1154,4,5,Safe,True
+1,2,Kelly Monaco,17.0,5,0.1893,0.0986,2,7,Safe,True
+1,2,Evander Holyfield,14.0,6,0.2437,0.1069,1,7,Safe,True
+1,2,Rachel Hunter,24.0,2,0.1587,0.1127,5,7,Safe,True
+1,2,Joey McIntyre,21.0,3,0.1775,0.1233,3,6,Safe,True
+1,2,Trista Sutter,19.0,4,0.0554,0.0408,6,10,Eliminated,True
+1,3,John O'Hurley,24.0,2,0.1788,0.1297,4,6,Safe,True
+1,3,Kelly Monaco,21.0,4,0.2358,0.1384,2,6,Safe,True
+1,3,Evander Holyfield,13.0,5,0.1179,0.0786,5,10,Eliminated,True
+1,3,Rachel Hunter,26.0,1,0.2093,0.1492,3,4,Safe,True
+1,3,Joey McIntyre,22.0,3,0.2582,0.1461,1,4,Safe,True
+1,4,John O'Hurley,21.0,3,0.2658,0.1402,2,5,Safe,True
+1,4,Kelly Monaco,26.0,1,0.2551,0.1992,3,4,Safe,True
+1,4,Rachel Hunter,25.0,2,0.0904,0.0668,4,6,Eliminated,True
+1,4,Joey McIntyre,20.0,4,0.3887,0.1387,1,5,Safe,True
